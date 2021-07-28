@@ -1,0 +1,13 @@
+"E:\IAR for arm\arm\bin\armproc.dll" 
+
+"E:\IAR for arm\arm\bin\armjlink.dll" 
+
+"G:\00 WorkSpace\04IVD_SW_Development\Modules\Camera\01-SrcCode\STM32_HOST_UVC_Camera-master\HAL_source\stm32F4_discovery_project\EWARM\host_testing\Exe\host_testing.out" 
+
+--plugin "E:\IAR for arm\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR for arm\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+
+
+
